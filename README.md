@@ -6,21 +6,27 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
-
+import sys
 ### Step 2: 
- 
+ open the file sys.argv[1] in read mode
 ### Step 3: 
-
+read the opened file and assign to a1
 ### Step 4:  
-
+split the a1
 ### Step 5: 
-
+print the a1
 ### Step 6: 
-
+end the program
 ## PROGRAM:
-
+```
+import sys
+f=open(sys.argv[1],'r')
+a1=f.read()
+a.split()
+print(len(a))
+```
 ### OUTPUT:
-
+![output](/Screenshot%202023-07-25%20141120.png)
 
 
 ## RESULT:
