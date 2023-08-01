@@ -29,7 +29,7 @@ print(len(a1))
 ```
 ### OUTPUT:
 ![output](/Screenshot%202023-08-01%20085201.png)
-![output](/myfile.txt)
+![output](/Screenshot%202023-08-01%20085925.png)
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
