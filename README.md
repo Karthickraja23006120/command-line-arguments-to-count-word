@@ -19,6 +19,8 @@ print the a1
 end the program
 ## PROGRAM:
 ```
+Developed by: Karthick Raja K
+Reference Number:23006120
 import sys
 f=open(sys.argv[1],'r')
 a1=f.read()
@@ -26,8 +28,8 @@ a.split()
 print(len(a))
 ```
 ### OUTPUT:
-![output](/Screenshot%202023-07-25%20141120.png)
-
+![output](/Screenshot%202023-08-01%20085201.png)
+![output](/myfile.txt)
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
