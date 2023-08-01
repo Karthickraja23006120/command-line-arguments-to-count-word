@@ -22,10 +22,10 @@ end the program
 Developed by: Karthick Raja K
 Reference Number:23006120
 import sys
-f=open(sys.argv[1],'r')
+f=open('myfile.txt','r')
 a1=f.read()
-a.split()
-print(len(a))
+a1.split()
+print(len(a1))
 ```
 ### OUTPUT:
 ![output](/Screenshot%202023-08-01%20085201.png)
